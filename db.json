@@ -1,14 +1,14 @@
 {
-    "tasks": [
+    "usuarios": [
       {
         "id": 1,
-        "title": "Study json-server",
-        "completed": false
+        "name": "Pepe Gonzalez",
+        "email": "johndoe@example.com"
       },
       {
         "id": 2,
-        "title": "Complete the client-side project",
-        "completed": true
+        "name": "Paco Garcia",
+        "email": "janesmith@example.com"
       }
     ]
   }
