@@ -1,14 +1,84 @@
 {
-    "usuarios": [
+    "books": [
       {
         "id": 1,
-        "name": "Pepe Gonzalez",
-        "email": "johndoe@example.com"
+        "title": "El Quijote",
+        "number": "ISBN-001",
+        "year": 1605,
+        "status": "completed",
+        "author": "Miguel de Cervantes"
       },
       {
         "id": 2,
-        "name": "Paco Garcia",
-        "email": "janesmith@example.com"
+        "title": "Cien años de soledad",
+        "number": "ISBN-002",
+        "year": 1967,
+        "status": "completed",
+        "author": "Gabriel García Márquez"
+      },
+      {
+        "id": 3,
+        "title": "1984",
+        "number": "ISBN-003",
+        "year": 1949,
+        "status": "in progress",
+        "author": "George Orwell"
+      },
+      {
+        "id": 4,
+        "title": "Don Juan Tenorio",
+        "number": "ISBN-004",
+        "year": 1844,
+        "status": "pending",
+        "author": "José Zorrilla"
+      },
+      {
+        "id": 5,
+        "title": "La sombra del viento",
+        "number": "ISBN-005",
+        "year": 2001,
+        "status": "completed",
+        "author": "Carlos Ruiz Zafón"
+      },
+      {
+        "id": 6,
+        "title": "Los miserables",
+        "number": "ISBN-006",
+        "year": 1862,
+        "status": "in progress",
+        "author": "Victor Hugo"
+      },
+      {
+        "id": 7,
+        "title": "El señor de los anillos",
+        "number": "ISBN-007",
+        "year": 1954,
+        "status": "completed",
+        "author": "J.R.R. Tolkien"
+      },
+      {
+        "id": 8,
+        "title": "Rayuela",
+        "number": "ISBN-008",
+        "year": 1963,
+        "status": "pending",
+        "author": "Julio Cortázar"
+      },
+      {
+        "id": 9,
+        "title": "El retrato de Dorian Gray",
+        "number": "ISBN-009",
+        "year": 1890,
+        "status": "completed",
+        "author": "Oscar Wilde"
+      },
+      {
+        "id": 10,
+        "title": "Los pilares de la tierra",
+        "number": "ISBN-010",
+        "year": 1989,
+        "status": "in progress",
+        "author": "Ken Follett"
       }
     ]
   }
